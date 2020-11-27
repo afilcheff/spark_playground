@@ -3,25 +3,26 @@ from pyspark.sql import SparkSession
 
 def main():
 	sparkSession = SparkSession \
-		.builder.master('local') \
-		.appName('Projections in append mode')\
+		.builder \
+		.appName('Aggregations in complete mode')\
 		.getOrCreate()
 
 	sparkSession.sparkContext.setLogLevel('ERROR')
 
-	schema = StructType([StructField('Date', StringType(), True),
-						 StructField('Open', StringType(), True),
-						 StructField('High', StringType(), True),
-						 StructField('Low', StringType(), True),
-						 StructField('Close', StringType(), True),
-						 StructField('Adjusted Close', StringType(), True),
-						 StructField('Volume', StringType(), True),
+	schema = StructType([StructField('Date', DoubleType(), True),
+						 StructField('Open', DoubleType(), True),
+						 StructField('High', DoubleType(), True),
+						 StructField('Low', DoubleType(), True),
+						 StructField('Close', DoubleType(), True),
+						 StructField('Adjusted Close', DoubleType(), True),
+						 StructField('Volume', DoubleType(), True),
 						 StructField('Name', StringType(), True)
 						 ])
 
 	stockPricesDf = sparkSession \
 			.readStream \
 			.option('header', 'true') \
+			.option('maxFilesPerTrigger', 2) \
 			.schema(schema) \
 			.csv('./datasets/stock_data')
 
@@ -36,21 +37,18 @@ def main():
 	print('Schema of the input stream')
 	print(stockPricesDf.printSchema())
 
-
 	stockPricesDf.createOrReplaceTempView('stock_prices')
 
+	minMaxCloseDf = sparkSession.sql("""SELECT Name, min(Close), max(Close)
+				   				        FROM stock_prices
+				   				        GROUP BY Name""")  
 
-	selectDf = sparkSession.sql("""SELECT Name, Date, High, Low
-									FROM stock_prices
-									WHERE High - Low > 10""")
-					
 
-	query = selectDf \
-			.writeStream \
-			.outputMode('append') \
+	query = minMaxCloseDf \
+			.writeStream.outputMode('complete') \
 			.format('console') \
 			.option('truncate', 'false') \
-			.option('numRows', 5) \
+			.option('numRows', 30) \
 			.start() \
 			.awaitTermination()
 
