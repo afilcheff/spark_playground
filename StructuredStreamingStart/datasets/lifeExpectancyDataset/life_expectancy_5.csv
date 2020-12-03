@@ -1,0 +1,450 @@
+Country,Year,Status,LifeExpectancy
+Philippines,2001,Developing,66.8
+Philippines,2000,Developing,66.8
+Poland,2014,Developed,77.3
+Poland,2013,Developed,77.1
+Poland,2012,Developed,76.8
+Poland,2011,Developed,76.7
+Poland,2010,Developed,76.3
+Poland,2009,Developed,75.7
+Poland,2008,Developed,75.5
+Poland,2007,Developed,75.3
+Poland,2006,Developed,75.2
+Poland,2005,Developed,75.0
+Poland,2004,Developed,74.9
+Poland,2003,Developed,74.7
+Poland,2002,Developed,74.5
+Poland,2001,Developed,74.2
+Poland,2000,Developed,73.7
+Portugal,2014,Developed,89.0
+Portugal,2013,Developed,86.0
+Portugal,2012,Developed,83.0
+Portugal,2011,Developed,82.0
+Portugal,2010,Developed,79.6
+Portugal,2009,Developed,79.3
+Portugal,2008,Developed,79.0
+Portugal,2007,Developed,78.7
+Portugal,2006,Developed,78.5
+Portugal,2005,Developed,77.7
+Portugal,2004,Developed,78.0
+Portugal,2003,Developed,77.3
+Portugal,2002,Developed,77.2
+Portugal,2001,Developed,76.9
+Portugal,2000,Developed,76.6
+Romania,2014,Developed,74.8
+Romania,2013,Developed,74.6
+Romania,2012,Developed,74.4
+Romania,2011,Developed,74.3
+Romania,2010,Developed,73.4
+Romania,2009,Developed,73.1
+Romania,2008,Developed,73.1
+Romania,2007,Developed,72.9
+Romania,2006,Developed,72.5
+Romania,2005,Developed,71.9
+Romania,2004,Developed,71.7
+Romania,2003,Developed,71.1
+Romania,2002,Developed,77.0
+Romania,2001,Developed,78.0
+Romania,2000,Developed,77.0
+Russian Federation,2014,Developing,73.0
+Russian Federation,2013,Developing,70.0
+Russian Federation,2012,Developing,69.6
+Russian Federation,2011,Developing,69.4
+Russian Federation,2010,Developing,68.4
+Russian Federation,2009,Developing,68.2
+Russian Federation,2008,Developing,67.5
+Russian Federation,2007,Developing,67.3
+Russian Federation,2006,Developing,66.4
+Russian Federation,2005,Developing,65.0
+Russian Federation,2004,Developing,64.9
+Russian Federation,2003,Developing,64.6
+Russian Federation,2002,Developing,64.8
+Russian Federation,2001,Developing,65.1
+Rwanda,2014,Developing,65.7
+Rwanda,2013,Developing,65.2
+Rwanda,2012,Developing,64.6
+Rwanda,2011,Developing,63.8
+Rwanda,2010,Developing,62.8
+Rwanda,2009,Developing,61.0
+Rwanda,2008,Developing,68.0
+Rwanda,2007,Developing,59.6
+Rwanda,2006,Developing,57.6
+Rwanda,2005,Developing,55.3
+Rwanda,2004,Developing,53.4
+Rwanda,2003,Developing,52.0
+Rwanda,2002,Developing,57.0
+Samoa,2014,Developing,73.8
+Samoa,2013,Developing,73.6
+Samoa,2012,Developing,73.2
+Samoa,2011,Developing,73.0
+Samoa,2010,Developing,72.6
+Samoa,2009,Developing,76.0
+Samoa,2008,Developing,72.5
+Samoa,2007,Developing,72.2
+Samoa,2006,Developing,72.0
+Samoa,2005,Developing,71.6
+Samoa,2004,Developing,71.4
+Samoa,2003,Developing,79.0
+Samoa,2002,Developing,76.0
+Samoa,2001,Developing,75.0
+Samoa,2000,Developing,72.0
+Sao Tome and Principe,2014,Developing,67.3
+Sao Tome and Principe,2013,Developing,67.1
+Sao Tome and Principe,2012,Developing,66.9
+Sao Tome and Principe,2011,Developing,66.6
+Sao Tome and Principe,2010,Developing,66.2
+Sao Tome and Principe,2009,Developing,65.8
+Sao Tome and Principe,2008,Developing,65.4
+Sao Tome and Principe,2007,Developing,65.1
+Sao Tome and Principe,2006,Developing,64.7
+Sao Tome and Principe,2005,Developing,64.3
+Sao Tome and Principe,2004,Developing,63.8
+Sao Tome and Principe,2003,Developing,63.4
+Senegal,2014,Developing,66.4
+Senegal,2013,Developing,66.0
+Senegal,2012,Developing,65.6
+Senegal,2011,Developing,64.9
+Senegal,2010,Developing,64.3
+Senegal,2009,Developing,63.5
+Senegal,2008,Developing,62.8
+Senegal,2007,Developing,62.1
+Senegal,2006,Developing,61.3
+Senegal,2005,Developing,65.0
+Senegal,2004,Developing,59.7
+Serbia,2014,Developing,75.4
+Serbia,2013,Developing,75.3
+Serbia,2012,Developing,74.9
+Serbia,2011,Developing,74.6
+Serbia,2010,Developing,74.4
+Serbia,2009,Developing,74.1
+Serbia,2008,Developing,74.0
+Serbia,2007,Developing,73.8
+Serbia,2006,Developing,73.6
+Serbia,2005,Developing,73.0
+Serbia,2004,Developing,73.0
+Seychelles,2014,Developing,73.0
+Seychelles,2013,Developing,72.9
+Seychelles,2012,Developing,72.7
+Seychelles,2011,Developing,72.6
+Seychelles,2010,Developing,72.4
+Seychelles,2009,Developing,72.3
+Seychelles,2008,Developing,72.2
+Seychelles,2007,Developing,72.2
+Seychelles,2006,Developing,72.2
+Seychelles,2005,Developing,72.2
+Seychelles,2004,Developing,72.1
+Seychelles,2003,Developing,72.1
+Seychelles,2002,Developing,72.1
+Seychelles,2001,Developing,72.0
+Seychelles,2000,Developing,71.8
+Sierra Leone,2014,Developing,48.1
+Sierra Leone,2013,Developing,54.0
+Sierra Leone,2012,Developing,49.7
+Sierra Leone,2011,Developing,48.9
+Sierra Leone,2010,Developing,48.1
+Sierra Leone,2009,Developing,47.1
+Sierra Leone,2008,Developing,46.2
+Sierra Leone,2007,Developing,45.3
+Solomon Islands,2014,Developing,68.8
+Solomon Islands,2013,Developing,68.8
+Solomon Islands,2012,Developing,68.7
+Solomon Islands,2011,Developing,68.5
+Solomon Islands,2010,Developing,68.3
+Solomon Islands,2009,Developing,68.1
+Solomon Islands,2008,Developing,68.0
+Solomon Islands,2007,Developing,67.6
+Solomon Islands,2006,Developing,67.6
+Solomon Islands,2005,Developing,67.4
+Solomon Islands,2004,Developing,67.1
+Solomon Islands,2003,Developing,66.8
+Solomon Islands,2002,Developing,66.5
+Solomon Islands,2001,Developing,66.2
+Solomon Islands,2000,Developing,65.8
+South Africa,2014,Developing,62.0
+South Africa,2013,Developing,69.0
+South Africa,2012,Developing,59.2
+South Africa,2011,Developing,58.9
+South Africa,2010,Developing,58.0
+South Africa,2009,Developing,56.5
+South Africa,2008,Developing,55.3
+South Africa,2007,Developing,54.5
+South Africa,2006,Developing,54.0
+South Africa,2005,Developing,53.8
+South Africa,2004,Developing,53.7
+South Africa,2003,Developing,54.0
+South Africa,2002,Developing,54.9
+South Africa,2001,Developing,56.0
+South Africa,2000,Developing,57.3
+Spain,2014,Developed,82.6
+Spain,2013,Developed,82.4
+Spain,2012,Developed,82.0
+Spain,2011,Developed,82.1
+Spain,2010,Developed,81.9
+Spain,2009,Developed,81.6
+Spain,2008,Developed,81.3
+Spain,2007,Developed,89.0
+Spain,2006,Developed,88.0
+Spain,2005,Developed,81.0
+Spain,2004,Developed,81.0
+Spain,2003,Developed,79.4
+Spain,2002,Developed,79.5
+Spain,2001,Developed,79.4
+Spain,2000,Developed,79.1
+Sri Lanka,2014,Developing,74.7
+Sri Lanka,2013,Developing,74.6
+Sri Lanka,2012,Developing,74.5
+Sri Lanka,2011,Developing,74.5
+Sri Lanka,2010,Developing,74.5
+Sri Lanka,2009,Developing,71.8
+Sri Lanka,2008,Developing,72.3
+Sri Lanka,2007,Developing,73.7
+Sri Lanka,2006,Developing,73.8
+Sri Lanka,2005,Developing,74.2
+Sri Lanka,2004,Developing,69.1
+Sri Lanka,2003,Developing,73.9
+Suriname,2014,Developing,71.4
+Suriname,2013,Developing,71.2
+Suriname,2012,Developing,71.3
+Suriname,2011,Developing,76.0
+Suriname,2010,Developing,73.0
+Suriname,2009,Developing,70.0
+Suriname,2008,Developing,69.8
+Suriname,2007,Developing,69.5
+Suriname,2006,Developing,69.3
+Suriname,2005,Developing,68.9
+Swaziland,2014,Developing,58.4
+Swaziland,2013,Developing,57.6
+Swaziland,2012,Developing,56.5
+Swaziland,2011,Developing,55.0
+Swaziland,2010,Developing,53.6
+Swaziland,2009,Developing,52.6
+Swaziland,2008,Developing,51.4
+Swaziland,2007,Developing,50.0
+Swaziland,2006,Developing,47.8
+Swaziland,2005,Developing,46.0
+Swaziland,2004,Developing,45.6
+Swaziland,2003,Developing,45.9
+Swaziland,2002,Developing,46.4
+Swaziland,2001,Developing,47.1
+Swaziland,2000,Developing,48.4
+Sweden,2014,Developed,82.3
+Sweden,2013,Developed,81.9
+Sweden,2012,Developed,81.7
+Sweden,2011,Developed,81.7
+Syrian Arab Republic,2007,Developing,73.8
+Syrian Arab Republic,2006,Developing,73.7
+Syrian Arab Republic,2005,Developing,73.5
+Syrian Arab Republic,2004,Developing,73.2
+Syrian Arab Republic,2003,Developing,73.0
+Syrian Arab Republic,2002,Developing,72.8
+Syrian Arab Republic,2001,Developing,72.7
+Syrian Arab Republic,2000,Developing,72.6
+Tajikistan,2014,Developing,69.6
+Tajikistan,2013,Developing,69.3
+Tajikistan,2012,Developing,68.8
+Tajikistan,2011,Developing,68.1
+Tajikistan,2010,Developing,67.3
+Tajikistan,2009,Developing,66.7
+Tajikistan,2008,Developing,66.4
+Tajikistan,2007,Developing,66.1
+Tajikistan,2006,Developing,65.9
+Tajikistan,2005,Developing,65.5
+Tajikistan,2004,Developing,65.9
+Tajikistan,2003,Developing,65.2
+Tajikistan,2002,Developing,64.3
+Thailand,2014,Developing,74.6
+Thailand,2013,Developing,74.5
+Thailand,2012,Developing,74.3
+Thailand,2011,Developing,74.1
+Thailand,2010,Developing,73.9
+Thailand,2009,Developing,73.7
+Thailand,2008,Developing,73.5
+Thailand,2007,Developing,73.3
+Thailand,2006,Developing,73.0
+Thailand,2005,Developing,72.5
+Thailand,2004,Developing,71.6
+Thailand,2003,Developing,71.7
+Thailand,2002,Developing,71.4
+Thailand,2001,Developing,71.2
+Thailand,2000,Developing,71.1
+Timor-Leste,2014,Developing,68.0
+Timor-Leste,2013,Developing,67.7
+Timor-Leste,2012,Developing,67.4
+Timor-Leste,2011,Developing,67.2
+Timor-Leste,2010,Developing,66.9
+Timor-Leste,2009,Developing,66.6
+Timor-Leste,2008,Developing,66.2
+Togo,2014,Developing,59.7
+Togo,2013,Developing,59.4
+Togo,2012,Developing,58.9
+Togo,2011,Developing,58.3
+Togo,2010,Developing,57.4
+Togo,2009,Developing,56.7
+Togo,2008,Developing,56.2
+Tonga,2014,Developing,73.3
+Tonga,2013,Developing,73.2
+Tonga,2012,Developing,73.0
+Tonga,2011,Developing,72.9
+Tonga,2010,Developing,72.8
+Tonga,2009,Developing,72.5
+Tonga,2008,Developing,72.6
+Tonga,2007,Developing,72.5
+Tonga,2006,Developing,72.4
+Tonga,2005,Developing,72.3
+Tonga,2004,Developing,72.2
+Tonga,2003,Developing,72.0
+Tonga,2002,Developing,71.9
+Tonga,2001,Developing,71.8
+Tonga,2000,Developing,71.6
+Trinidad and Tobago,2014,Developing,71.1
+Trinidad and Tobago,2013,Developing,71.0
+Trinidad and Tobago,2012,Developing,78.0
+Trinidad and Tobago,2011,Developing,76.0
+Trinidad and Tobago,2010,Developing,74.0
+Trinidad and Tobago,2009,Developing,71.0
+Trinidad and Tobago,2008,Developing,69.9
+Trinidad and Tobago,2007,Developing,69.7
+Trinidad and Tobago,2006,Developing,69.6
+Trinidad and Tobago,2005,Developing,69.5
+Trinidad and Tobago,2004,Developing,69.4
+Trinidad and Tobago,2003,Developing,69.3
+Trinidad and Tobago,2002,Developing,69.2
+Tunisia,2014,Developing,75.1
+Tunisia,2013,Developing,74.9
+Tunisia,2012,Developing,74.9
+Tunisia,2011,Developing,74.8
+Tunisia,2010,Developing,74.8
+Tunisia,2009,Developing,74.7
+Tunisia,2008,Developing,74.7
+Tunisia,2007,Developing,74.6
+Tunisia,2006,Developing,74.4
+Tunisia,2005,Developing,74.2
+Tunisia,2004,Developing,74.0
+Tunisia,2003,Developing,73.7
+Tunisia,2002,Developing,73.5
+Tunisia,2001,Developing,73.2
+Tunisia,2000,Developing,72.9
+Turkey,2014,Developing,75.5
+Turkey,2013,Developing,75.2
+Turkey,2012,Developing,74.8
+Turkey,2011,Developing,74.5
+Turkey,2010,Developing,74.2
+Turkey,2009,Developing,73.9
+Turkey,2008,Developing,73.5
+Turkey,2007,Developing,73.2
+Turkey,2006,Developing,72.8
+Turkey,2005,Developing,72.4
+Turkey,2004,Developing,72.0
+Turkey,2003,Developing,71.6
+Turkey,2002,Developing,71.2
+Turkey,2001,Developing,78.0
+Turkey,2000,Developing,74.0
+Turkmenistan,2014,Developing,66.0
+Turkmenistan,2013,Developing,65.4
+Turkmenistan,2012,Developing,65.6
+Turkmenistan,2011,Developing,65.6
+Turkmenistan,2010,Developing,65.8
+Turkmenistan,2009,Developing,65.6
+Turkmenistan,2008,Developing,64.5
+Turkmenistan,2007,Developing,64.1
+Turkmenistan,2006,Developing,63.7
+Turkmenistan,2005,Developing,63.3
+Turkmenistan,2004,Developing,63.5
+Turkmenistan,2003,Developing,63.4
+Turkmenistan,2002,Developing,63.3
+Uganda,2014,Developing,61.5
+Uganda,2013,Developing,67.0
+Uganda,2012,Developing,60.0
+Uganda,2011,Developing,59.3
+Uganda,2010,Developing,58.4
+Uganda,2009,Developing,57.5
+Uganda,2008,Developing,56.3
+Uganda,2007,Developing,55.5
+Uganda,2006,Developing,54.9
+Uganda,2005,Developing,53.2
+Uganda,2004,Developing,51.3
+Uganda,2003,Developing,51.0
+Uganda,2002,Developing,48.8
+Ukraine,2014,Developing,78.0
+Ukraine,2013,Developing,71.0
+Ukraine,2012,Developing,77.0
+Ukraine,2011,Developing,75.0
+Ukraine,2010,Developing,69.8
+Ukraine,2009,Developing,69.2
+Ukraine,2008,Developing,67.7
+Ukraine,2007,Developing,67.5
+Ukraine,2006,Developing,67.7
+Ukraine,2005,Developing,67.0
+Ukraine,2004,Developing,67.4
+Ukraine,2003,Developing,67.6
+Ukraine,2002,Developing,67.6
+Ukraine,2001,Developing,67.7
+Ukraine,2000,Developing,67.5
+Uruguay,2014,Developing,76.8
+Uruguay,2013,Developing,76.8
+Uruguay,2012,Developing,76.5
+Uruguay,2011,Developing,77.0
+Uruguay,2010,Developing,76.3
+Uruguay,2009,Developing,76.6
+Uruguay,2008,Developing,76.4
+Uruguay,2007,Developing,75.4
+Uruguay,2006,Developing,76.2
+Uruguay,2005,Developing,75.7
+Uruguay,2004,Developing,75.4
+Uruguay,2003,Developing,75.4
+Uruguay,2002,Developing,75.4
+Uruguay,2001,Developing,75.2
+Uruguay,2000,Developing,75.1
+Uzbekistan,2014,Developing,69.2
+Uzbekistan,2013,Developing,69.1
+Uzbekistan,2012,Developing,68.8
+Uzbekistan,2011,Developing,68.5
+Uzbekistan,2010,Developing,68.3
+Uzbekistan,2009,Developing,68.0
+Uzbekistan,2008,Developing,67.9
+Uzbekistan,2007,Developing,67.8
+Uzbekistan,2006,Developing,67.6
+Uzbekistan,2005,Developing,67.3
+Uzbekistan,2004,Developing,67.8
+Uzbekistan,2003,Developing,67.2
+Uzbekistan,2002,Developing,67.1
+Vanuatu,2014,Developing,71.7
+Vanuatu,2013,Developing,71.6
+Vanuatu,2012,Developing,71.4
+Vanuatu,2011,Developing,71.2
+Vanuatu,2010,Developing,71.0
+Vanuatu,2009,Developing,78.0
+Vanuatu,2008,Developing,75.0
+Vanuatu,2007,Developing,73.0
+Vanuatu,2006,Developing,71.0
+Vanuatu,2005,Developing,69.9
+Vanuatu,2004,Developing,69.6
+Vanuatu,2003,Developing,69.4
+Vanuatu,2002,Developing,69.3
+Vanuatu,2001,Developing,69.1
+Vanuatu,2000,Developing,69.0
+Zambia,2014,Developing,61.1
+Zambia,2013,Developing,63.0
+Zambia,2012,Developing,59.2
+Zambia,2011,Developing,58.2
+Zambia,2010,Developing,58.0
+Zambia,2009,Developing,57.4
+Zambia,2008,Developing,55.7
+Zambia,2007,Developing,52.6
+Zambia,2006,Developing,58.0
+Zambia,2005,Developing,49.3
+Zimbabwe,2014,Developing,59.2
+Zimbabwe,2013,Developing,58.0
+Zimbabwe,2012,Developing,56.6
+Zimbabwe,2011,Developing,54.9
+Zimbabwe,2010,Developing,52.4
+Zimbabwe,2009,Developing,50.0
+Zimbabwe,2008,Developing,48.2
+Zimbabwe,2007,Developing,46.6
+Zimbabwe,2006,Developing,45.4
+Zimbabwe,2005,Developing,44.6
+Zimbabwe,2004,Developing,44.3
+Zimbabwe,2003,Developing,44.5
+Zimbabwe,2002,Developing,44.8
+Zimbabwe,2001,Developing,45.3
+Zimbabwe,2000,Developing,46.0

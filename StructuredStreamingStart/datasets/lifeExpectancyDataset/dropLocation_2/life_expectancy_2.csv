@@ -1,0 +1,301 @@
+Country,Year,Status,LifeExpectancy
+Cambodia,2009,Developing,66.1
+Cambodia,2008,Developing,65.6
+Cambodia,2007,Developing,65.0
+Cambodia,2006,Developing,64.1
+Cameroon,2014,Developing,56.7
+Cameroon,2013,Developing,56.4
+Cameroon,2012,Developing,55.9
+Cameroon,2011,Developing,55.6
+Cameroon,2010,Developing,55.3
+Cameroon,2009,Developing,54.8
+Cameroon,2008,Developing,54.2
+Cameroon,2007,Developing,53.6
+Cameroon,2006,Developing,53.3
+Cameroon,2005,Developing,52.8
+Canada,2014,Developing,82.0
+Canada,2013,Developing,81.8
+Canada,2012,Developing,81.6
+Canada,2011,Developing,81.5
+Canada,2010,Developing,81.2
+Canada,2009,Developing,81.0
+Canada,2008,Developing,87.0
+Canada,2007,Developing,85.0
+Canada,2006,Developing,85.0
+Canada,2005,Developing,81.0
+Canada,2004,Developing,80.0
+Canada,2003,Developing,79.7
+Central African Republic,2014,Developing,58.0
+Central African Republic,2013,Developing,49.9
+Central African Republic,2012,Developing,53.0
+Central African Republic,2011,Developing,49.8
+Central African Republic,2010,Developing,49.2
+Central African Republic,2009,Developing,48.6
+Chad,2014,Developing,52.6
+Chad,2013,Developing,52.2
+Chad,2012,Developing,51.8
+Chad,2011,Developing,51.6
+Chad,2010,Developing,51.2
+Chad,2009,Developing,57.0
+Chad,2008,Developing,49.6
+Chile,2014,Developing,83.0
+Chile,2013,Developing,81.0
+Chile,2012,Developing,79.9
+Chile,2011,Developing,79.8
+Chile,2010,Developing,79.1
+Chile,2009,Developing,79.3
+Chile,2008,Developing,79.6
+Chile,2007,Developing,78.9
+Chile,2006,Developing,78.9
+China,2014,Developing,75.8
+China,2013,Developing,75.6
+China,2012,Developing,75.4
+China,2011,Developing,75.2
+China,2010,Developing,75.0
+China,2009,Developing,74.9
+China,2008,Developing,74.5
+China,2007,Developing,74.4
+China,2006,Developing,74.2
+China,2005,Developing,73.9
+China,2004,Developing,73.5
+China,2003,Developing,73.1
+China,2002,Developing,72.7
+China,2001,Developing,72.2
+China,2000,Developing,71.7
+Colombia,2014,Developing,74.6
+Colombia,2013,Developing,74.4
+Colombia,2012,Developing,74.3
+Colombia,2011,Developing,74.2
+Colombia,2010,Developing,73.6
+Colombia,2009,Developing,73.6
+Colombia,2008,Developing,73.5
+Colombia,2007,Developing,73.5
+Colombia,2006,Developing,73.1
+Colombia,2005,Developing,73.1
+Colombia,2004,Developing,72.8
+Colombia,2003,Developing,72.4
+Colombia,2002,Developing,71.8
+Colombia,2001,Developing,71.5
+Colombia,2000,Developing,71.4
+Comoros,2014,Developing,63.2
+Comoros,2013,Developing,62.9
+Comoros,2012,Developing,62.5
+Comoros,2011,Developing,62.2
+Comoros,2010,Developing,61.8
+Comoros,2009,Developing,61.3
+Comoros,2008,Developing,61.0
+Comoros,2007,Developing,66.0
+Comoros,2006,Developing,63.0
+Comoros,2005,Developing,60.0
+Comoros,2004,Developing,59.8
+Comoros,2003,Developing,59.6
+Costa Rica,2014,Developing,79.5
+Costa Rica,2013,Developing,79.4
+Costa Rica,2012,Developing,79.2
+Costa Rica,2011,Developing,79.0
+Costa Rica,2010,Developing,78.1
+Costa Rica,2009,Developing,79.2
+Costa Rica,2008,Developing,78.9
+Costa Rica,2007,Developing,78.9
+Costa Rica,2006,Developing,78.0
+Costa Rica,2005,Developing,78.6
+Costa Rica,2004,Developing,77.7
+Costa Rica,2003,Developing,78.0
+Costa Rica,2002,Developing,78.3
+Costa Rica,2001,Developing,77.5
+Costa Rica,2000,Developing,77.6
+Croatia,2014,Developed,77.8
+Croatia,2013,Developed,77.7
+Croatia,2012,Developed,77.1
+Croatia,2011,Developed,77.0
+Croatia,2010,Developed,76.6
+Croatia,2009,Developed,76.3
+Croatia,2008,Developed,76.0
+Croatia,2007,Developed,75.8
+Cyprus,2014,Developed,83.0
+Cyprus,2013,Developed,81.0
+Cyprus,2012,Developed,80.0
+Cyprus,2011,Developed,79.7
+Cyprus,2010,Developed,79.5
+Cyprus,2009,Developed,79.3
+Cyprus,2008,Developed,79.1
+Cyprus,2007,Developed,78.9
+Cyprus,2006,Developed,78.8
+Cyprus,2005,Developed,78.7
+Cyprus,2004,Developed,78.6
+Cyprus,2003,Developed,78.5
+Cyprus,2002,Developed,78.4
+Cyprus,2001,Developed,78.2
+Cyprus,2000,Developed,78.1
+Djibouti,2014,Developing,63.0
+Djibouti,2013,Developing,62.7
+Djibouti,2012,Developing,62.2
+Djibouti,2011,Developing,61.8
+Djibouti,2010,Developing,61.3
+Djibouti,2009,Developing,69.0
+Djibouti,2008,Developing,62.0
+Djibouti,2007,Developing,59.8
+Dominican Republic,2014,Developing,73.6
+Dominican Republic,2013,Developing,73.4
+Dominican Republic,2012,Developing,72.1
+Dominican Republic,2011,Developing,73.1
+Dominican Republic,2010,Developing,72.7
+Dominican Republic,2009,Developing,73.6
+Dominican Republic,2008,Developing,73.3
+Dominican Republic,2007,Developing,72.9
+Dominican Republic,2006,Developing,72.3
+Dominican Republic,2005,Developing,69.7
+Dominican Republic,2004,Developing,69.3
+Dominican Republic,2003,Developing,73.0
+Dominican Republic,2002,Developing,71.4
+Dominican Republic,2001,Developing,71.2
+Dominican Republic,2000,Developing,72.0
+Ecuador,2014,Developing,76.0
+Ecuador,2013,Developing,76.0
+Ecuador,2012,Developing,75.5
+Ecuador,2011,Developing,75.3
+Ecuador,2010,Developing,75.0
+Ecuador,2009,Developing,75.1
+Ecuador,2008,Developing,74.6
+Ecuador,2007,Developing,74.7
+Ecuador,2006,Developing,74.4
+Ecuador,2005,Developing,74.2
+Ecuador,2004,Developing,74.4
+Ecuador,2003,Developing,74.4
+Ecuador,2002,Developing,73.6
+Ecuador,2001,Developing,73.4
+Ecuador,2000,Developing,72.8
+El Salvador,2014,Developing,73.3
+El Salvador,2013,Developing,73.0
+El Salvador,2012,Developing,73.0
+El Salvador,2011,Developing,72.0
+El Salvador,2010,Developing,72.0
+El Salvador,2009,Developing,71.4
+El Salvador,2008,Developing,71.7
+El Salvador,2007,Developing,71.2
+El Salvador,2006,Developing,75.0
+El Salvador,2005,Developing,71.0
+El Salvador,2004,Developing,70.0
+El Salvador,2003,Developing,69.9
+El Salvador,2002,Developing,73.0
+El Salvador,2001,Developing,68.9
+El Salvador,2000,Developing,69.0
+Equatorial Guinea,2014,Developing,57.9
+Eritrea,2011,Developing,62.9
+Eritrea,2010,Developing,62.1
+Eritrea,2009,Developing,61.4
+Eritrea,2008,Developing,67.0
+Eritrea,2007,Developing,62.0
+Eritrea,2006,Developing,59.7
+Eritrea,2005,Developing,59.4
+Eritrea,2004,Developing,59.1
+Eritrea,2003,Developing,58.8
+Eritrea,2002,Developing,58.5
+Estonia,2014,Developing,77.3
+Estonia,2013,Developing,76.9
+Estonia,2012,Developing,76.3
+Estonia,2011,Developing,76.1
+Estonia,2010,Developing,75.6
+Estonia,2009,Developing,74.9
+Estonia,2008,Developing,74.2
+Estonia,2007,Developing,73.0
+Estonia,2006,Developing,73.0
+Estonia,2005,Developing,72.8
+Estonia,2004,Developing,72.3
+Ethiopia,2014,Developing,64.2
+Ethiopia,2013,Developing,63.7
+Ethiopia,2012,Developing,63.3
+Ethiopia,2011,Developing,62.6
+Ethiopia,2010,Developing,61.8
+Ethiopia,2009,Developing,68.0
+Ethiopia,2008,Developing,59.8
+Ethiopia,2007,Developing,58.5
+Fiji,2014,Developing,69.7
+Fiji,2013,Developing,69.6
+Fiji,2012,Developing,69.4
+Fiji,2011,Developing,69.2
+Fiji,2010,Developing,69.1
+Fiji,2009,Developing,68.9
+Fiji,2008,Developing,68.7
+Fiji,2007,Developing,68.6
+Fiji,2006,Developing,68.5
+Fiji,2005,Developing,68.3
+Fiji,2004,Developing,68.1
+Fiji,2003,Developing,68.0
+Fiji,2002,Developing,67.9
+Fiji,2001,Developing,67.8
+Fiji,2000,Developing,67.7
+France,2014,Developing,82.2
+France,2013,Developing,82.0
+France,2012,Developing,81.5
+France,2011,Developing,81.7
+France,2010,Developing,81.3
+France,2009,Developing,81.1
+France,2008,Developing,89.0
+France,2007,Developing,89.0
+France,2006,Developing,86.0
+France,2005,Developing,81.0
+France,2004,Developing,82.0
+France,2003,Developing,79.3
+France,2002,Developing,79.2
+France,2001,Developing,79.0
+France,2000,Developing,78.8
+Gabon,2014,Developing,65.5
+Gabon,2013,Developing,64.6
+Gabon,2012,Developing,63.5
+Gabon,2011,Developing,62.8
+Gabon,2010,Developing,62.3
+Gabon,2009,Developing,61.7
+Gabon,2008,Developing,61.6
+Gabon,2007,Developing,61.6
+Gabon,2006,Developing,61.4
+Gabon,2005,Developing,65.0
+Georgia,2014,Developing,74.5
+Georgia,2013,Developing,74.5
+Georgia,2012,Developing,74.2
+Georgia,2011,Developing,73.9
+Georgia,2010,Developing,73.8
+Georgia,2009,Developing,73.2
+Georgia,2008,Developing,73.9
+Georgia,2007,Developing,74.4
+Georgia,2006,Developing,73.9
+Georgia,2005,Developing,73.9
+Georgia,2004,Developing,72.3
+Georgia,2003,Developing,72.7
+Georgia,2002,Developing,71.7
+Georgia,2001,Developing,73.0
+Georgia,2000,Developing,71.8
+Germany,2014,Developed,89.0
+Germany,2013,Developed,86.0
+Germany,2012,Developed,86.0
+Germany,2011,Developed,85.0
+Germany,2010,Developed,81.0
+Germany,2009,Developed,80.0
+Germany,2008,Developed,79.9
+Germany,2007,Developed,79.8
+Germany,2006,Developed,79.6
+Germany,2005,Developed,79.2
+Germany,2004,Developed,79.1
+Germany,2003,Developed,78.5
+Germany,2002,Developed,78.4
+Germany,2001,Developed,78.3
+Germany,2000,Developed,78.0
+Ghana,2014,Developing,62.1
+Ghana,2013,Developing,61.9
+Ghana,2012,Developing,61.6
+Ghana,2011,Developing,61.2
+Ghana,2010,Developing,69.0
+Ghana,2009,Developing,66.0
+Ghana,2008,Developing,63.0
+Ghana,2007,Developing,59.9
+Ghana,2006,Developing,59.4
+Ghana,2005,Developing,58.9
+Ghana,2004,Developing,58.3
+Ghana,2003,Developing,57.9
+Ghana,2002,Developing,57.6
+Greece,2014,Developing,88.0
+Greece,2013,Developing,86.0
+Greece,2012,Developing,84.0
+Greece,2011,Developing,85.0
+Greece,2010,Developing,83.0
+Greece,2009,Developing,80.0
